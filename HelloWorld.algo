@@ -1,6 +1,6 @@
 Algo HelloWorld {
  fonction principale {
-  Créer une fenetre de titre HELLO_WORLD
+  Créer une fenetre 400 x 400 de titre HELLO_WORLD
   Créer un label avec le texte HELLO_WORLD
  }
 }

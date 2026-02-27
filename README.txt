@@ -1,4 +1,4 @@
-Installation du hook pre-commit
+Installation du hook pre-commit :
 
 1) Copier le hook dans .git/hooks :
    cp hooks/pre-commit .git/hooks/pre-commit
